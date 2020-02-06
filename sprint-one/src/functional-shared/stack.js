@@ -9,11 +9,7 @@ newObj.storage = {};
 _.extend(newObj, stackMethods);
 
 return newObj;
-
 };
-
-
-
 
 var stackMethods = {
 
@@ -32,7 +28,6 @@ var stackMethods = {
 	size: function() {
 		return this.n;
 	}	
-
 };
 
 

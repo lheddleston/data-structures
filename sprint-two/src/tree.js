@@ -25,13 +25,8 @@ treeMethods.contains = function(target) {
       return true;
     }     
   }
-
   return false;
-
 };
-
-
-
 /*
  * Complexity: What is the time complexity of the above functions?
  */
